@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Enhanced Counter and Countdown</title>
+    <link href="styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Counter and Countdown</h1>
+      <div>
+        <h2>Counter</h2>
+        <div class="counter-display" id="counterDisplay">0</div>
+        <button id="incrementBtn">Increment</button>
+        <button id="decrementBtn">Decrement</button>
+        <button id="resetCounterBtn">Reset Counter</button>
+      </div>
+
+      <div>
+        <h2>Countdown</h2>
+        <div class="countdown-display" id="countdownDisplay">00:00:10</div>
+        <input
+          type="number"
+          class="input-field"
+          id="customCountdownInput"
+          min="1"
+          placeholder="Set in sec"
+        />
+        <button id="startCountdownBtn">Start Countdown</button>
+        <button id="stopCountdownBtn">Pause Countdown</button>
+        <button id="resetCountdownBtn">Reset Countdown</button>
+      </div>
+    </div>
+
+    <div id="timeoutModal" class="modal">
+      <div class="modal-content">
+        <h2>Time's up!</h2>
+        <button id="closeModalBtn">Close</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
