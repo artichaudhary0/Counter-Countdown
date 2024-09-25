@@ -17,7 +17,13 @@ A simple web application that allows users to increment/decrement a counter and 
   
 ## Live Demo
 
-You can see a live version of this project [here](https://your-demo-link.com).
+
+https://github.com/user-attachments/assets/dcf940ae-746c-48a7-b988-ef441856a70f
+
+
+
+You can see a live version of this project [here](https://drive.google.com/drive/folders/1qDNlsCEUIRHUPxkK_6bW2snt4xHXXC7z?usp=sharing).
+
 
 ## How to Use
 
@@ -30,7 +36,7 @@ You can see a live version of this project [here](https://your-demo-link.com).
    cd enhanced-counter-countdown
 ```
 3. Open the index.html file in a browser.
-
+   
 ## Customization
 - **Counter** : Click the "Increment", "Decrement", or "Reset Counter" buttons to control the counter.
 - **Countdown** : Enter a number of seconds in the input field and click "Start Countdown" to begin. You can pause or reset the countdown using the corresponding buttons. Once the countdown reaches zero, a modal will appear.
