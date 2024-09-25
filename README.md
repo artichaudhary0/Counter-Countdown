@@ -36,10 +36,10 @@ You can see a live version of this project [here](https://your-demo-link.com).
 - **Countdown** : Enter a number of seconds in the input field and click "Start Countdown" to begin. You can pause or reset the countdown using the corresponding buttons. Once the countdown reaches zero, a modal will appear.
 
 ## Screenshots
-<img width="300" alt="Screenshot 2024-09-25 at 2 42 13 PM" src="https://github.com/user-attachments/assets/543dd2d8-6e17-40c5-ad02-2ef9a17609e4">
-<img width="300" alt="Screenshot 2024-09-25 at 2 42 35 PM" src="https://github.com/user-attachments/assets/b63e7a34-8bf3-4705-be4a-0d6c2518a91d">
-<img width="300" alt="Screenshot 2024-09-25 at 2 43 07 PM" src="https://github.com/user-attachments/assets/4e7f3861-fab7-40cc-a4af-c379decc3d58">
-<img width="300" alt="Screenshot 2024-09-25 at 2 43 22 PM" src="https://github.com/user-attachments/assets/9d9f4bc1-f5d5-4a8e-89c3-1b7cd892695d">
+<img width="330" alt="Screenshot 2024-09-25 at 2 42 13 PM" src="https://github.com/user-attachments/assets/543dd2d8-6e17-40c5-ad02-2ef9a17609e4">
+<img width="330" alt="Screenshot 2024-09-25 at 2 42 35 PM" src="https://github.com/user-attachments/assets/b63e7a34-8bf3-4705-be4a-0d6c2518a91d">
+<img width="330" alt="Screenshot 2024-09-25 at 2 43 07 PM" src="https://github.com/user-attachments/assets/4e7f3861-fab7-40cc-a4af-c379decc3d58">
+<img width="330" alt="Screenshot 2024-09-25 at 2 43 22 PM" src="https://github.com/user-attachments/assets/9d9f4bc1-f5d5-4a8e-89c3-1b7cd892695d">
 
 ## Technologies Used
 - **HTML** : Markup structure.
