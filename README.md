@@ -34,7 +34,7 @@ You can see a live version of this project [here](https://drive.google.com/drive
 2. Navigate to the project directory :
   ```bash
    cd enhanced-counter-countdown
-```
+  ```
 3. Open the index.html file in a browser.
    
 ## Customization
