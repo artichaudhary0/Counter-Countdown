@@ -4,11 +4,11 @@ A simple web application that allows users to increment/decrement a counter and 
 
 ## Features
 
-•⁠  ⁠*Counter* : 
+*⁠*Counter** : 
   - Increment, decrement, and reset functionality.
   - Displays the current value of the counter.
 
-•⁠  ⁠*Countdown* : 
+*⁠*Countdown** : 
   - Customizable countdown in seconds.
   - Displays time in ⁠ HH:MM:SS ⁠ format.
   - Includes start, pause, and reset functionality.
@@ -27,19 +27,21 @@ You can see a live version of this project [here](https://drive.google.com/drive
 
 ## How to Use
 
-1.⁠ ⁠Clone the repository :
-   ⁠ bash
-   git clone https://github.com/your-username/enhanced-counter-countdown.git
+## How to Use
+1. Clone the repository :
+   ```bash
+   https://github.com/artichaudhary0/Student-Record-Management-CRUD.git
 
-2. Navigate to the project directory :
-   ```⁠bash
-   cd enhanced-counter-countdown
-   ```
-3.⁠ ⁠Open the index.html file in a browser.
-   
+ 2. Navigate to the project directory :
+    ```bash
+    cd Student-Record-Management-CRUD
+    ```
+3. Open the index.html file in a browser.
+
+
 ## Customization
-•⁠  ⁠*Counter* : Click the "Increment", "Decrement", or "Reset Counter" buttons to control the counter.
-•⁠  ⁠*Countdown* : Enter a number of seconds in the input field and click "Start Countdown" to begin. You can pause or reset the countdown using the corresponding buttons. Once the countdown reaches zero, a modal will appear.
+-  ⁠Counter : Click the "Increment", "Decrement", or "Reset Counter" buttons to control the counter.
+-  ⁠Countdown : Enter a number of seconds in the input field and click "Start Countdown" to begin. You can pause or reset the countdown using the corresponding buttons. Once the countdown reaches zero, a modal will appear.
 
 ## Screenshots
 <img width="330" alt="Screenshot 2024-09-25 at 2 42 13 PM" src="https://github.com/user-attachments/assets/543dd2d8-6e17-40c5-ad02-2ef9a17609e4">
@@ -48,13 +50,26 @@ You can see a live version of this project [here](https://drive.google.com/drive
 <img width="330" alt="Screenshot 2024-09-25 at 2 43 22 PM" src="https://github.com/user-attachments/assets/9d9f4bc1-f5d5-4a8e-89c3-1b7cd892695d">
 
 ## Technologies Used
-•⁠  ⁠*HTML* : Markup structure.
-•⁠  ⁠*CSS* : Styling and layout.
-•⁠  ⁠*JavaScript* : Core functionality for counter and countdown logic.
+⁠**HTML** : Markup structure.
+⁠**CSS** : Styling and layout.
+⁠**JavaScript** : Core functionality for counter and countdown logic.
 
 ## Future Enhancements
-•⁠  ⁠Add sound effects when the countdown reaches zero.
-•⁠  ⁠Allow the user to set custom background color changes for different time ranges.
-•⁠  ⁠Store counter and countdown values in local storage for persistent state across sessions.
+
+-  ⁠Add sound effects when the countdown reaches zero.
+-⁠  ⁠Allow the user to set custom background color changes for different time ranges.
+-⁠  ⁠Store counter and countdown values in local storage for persistent state across sessions.
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+
+
+
+
+
+
+
+
