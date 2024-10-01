@@ -4,11 +4,11 @@ A simple web application that allows users to increment/decrement a counter and 
 
 ## Features
 
-*⁠*Counter** : 
+Counter : 
   - Increment, decrement, and reset functionality.
   - Displays the current value of the counter.
 
-*⁠*Countdown** : 
+Countdown : 
   - Customizable countdown in seconds.
   - Displays time in ⁠ HH:MM:SS ⁠ format.
   - Includes start, pause, and reset functionality.
